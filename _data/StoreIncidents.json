@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 3600,
 		"karmatype": "Bad"
 	},
 	{
@@ -116,11 +116,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "transportpodcrash",
-		"price": 600,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "tradercaravan",
 		"price": 275,
 		"karmatype": "Good"
@@ -137,7 +132,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 350,
+		"price": 2917,
 		"karmatype": "Good"
 	},
 	{
@@ -172,8 +167,8 @@
 	},
 	{
 		"abr": "wildman",
-		"price": 300,
-		"karmatype": "Good"
+		"price": 2917,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "rarethrumbos",
@@ -222,7 +217,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 700,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -357,7 +352,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -372,7 +367,7 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 800,
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
@@ -397,6 +392,11 @@
 	},
 	{
 		"abr": "settraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
